@@ -40,6 +40,8 @@ data class PagerModel(
     @DrawableRes val image: Int
 )
 
+//learning git
+
 private val onboardingPages = listOf(
     PagerModel(
         title = "Secures Transactions & Reliable Anytime",
