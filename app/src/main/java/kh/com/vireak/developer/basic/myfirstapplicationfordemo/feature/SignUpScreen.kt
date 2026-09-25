@@ -42,7 +42,7 @@ data class PagerModel(
 
 private val onboardingPages = listOf(
     PagerModel(
-        title = "Secure Transactions & Reliable Anytime",
+        title = "Secures Transactions & Reliable Anytime",
         description = "You can get 100% security in every transaction. So, you can blindly rely on us.",
         image = R.drawable.img_pager1
     ),
