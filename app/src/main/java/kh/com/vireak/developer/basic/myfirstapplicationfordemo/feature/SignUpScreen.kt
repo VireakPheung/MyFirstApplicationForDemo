@@ -42,6 +42,9 @@ data class PagerModel(
 
 //learning git
 
+//practicing git branch
+
+
 private val onboardingPages = listOf(
     PagerModel(
         title = "Secures Transactions & Reliable Anytime",
