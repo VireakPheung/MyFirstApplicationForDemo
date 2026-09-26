@@ -42,7 +42,8 @@ data class PagerModel(
 
 //learning git
 
-//practicing git branch
+//learning how to use everything in git
+
 
 
 private val onboardingPages = listOf(
