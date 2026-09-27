@@ -42,7 +42,7 @@ data class PagerModel(
 
 //learning git
 
-//learning how to use everything in git222222
+//learning how to use everything in git / conflict-practice
 
 //practicing pull request PRs
 
