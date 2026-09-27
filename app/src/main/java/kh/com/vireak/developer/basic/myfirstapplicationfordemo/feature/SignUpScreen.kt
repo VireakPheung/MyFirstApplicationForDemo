@@ -47,6 +47,9 @@ data class PagerModel(
 //practicing pull request PRs
 
 
+//profile feature practice
+
+
 
 private val onboardingPages = listOf(
     PagerModel(
